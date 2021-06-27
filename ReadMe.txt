@@ -6,5 +6,5 @@ Date ended: 22.06.2021
 Hours taken per day: 3 hours
 Total time taken: 3 hours
 
-This is my first project so it took me more time to work out the basics in a proper hands-on.
+This is just my first project so it took me more time to work out the basics in a proper hands-on.
 
